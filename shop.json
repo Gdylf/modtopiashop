@@ -1,24 +1,58 @@
-{
-    "uzytkownik": {
-      "imie": "Janusz",
-      "wiek": 42,
-      "premium": true,
-      "zwierzaki": ["pies", "kot", "papuga"],
-      "adres": {
-        "ulica": "Sezamkowa 123",
-        "miasto": "Warszawa",
-        "kod_pocztowy": "00-001"
-      }
+[
+    {
+      "title": "VIP Package Premium",
+      "description": "Ekskluzywny pakiet VIP z dostępem do wszystkich funkcji premium, specjalnymi rangami i bonusami dla graczy. Idealny dla najbardziej zaangażowanych członków społeczności!",
+      "price": "49.99 zł",
+      "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=400&h=200&fit=crop",
+      "enddate": "2025-12-31"
     },
-    "logowania": [
-      {
-        "data": "2025-06-01",
-        "ip": "192.168.1.1"
-      },
-      {
-        "data": "2025-06-08",
-        "ip": "10.0.0.5"
-      }
-    ]
-  }
-  
+    {
+      "title": "Starter Kit Gaming",
+      "description": "Podstawowy zestaw startowy dla nowych graczy. Zawiera niezbędne zasoby, kosmetic skin i przewodnik dla początkujących. Świetny start w naszej społeczności!",
+      "price": "19.99 zł",
+      "image": "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?w=400&h=200&fit=crop",
+      "enddate": "2025-06-30"
+    },
+    {
+      "title": "Mega Resource Pack",
+      "description": "Ogromny pakiet zasobów zawierający unikalne tekstury, dźwięki i modele 3D. Przekształć swoją rozgrywkę dzięki tym niesamowitym dodatkom wizualnym i dźwiękowym.",
+      "price": "29.99 zł",
+      "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=400&h=200&fit=crop",
+      "enddate": "2025-09-15"
+    },
+    {
+      "title": "Custom Avatar Creator",
+      "description": "Kreator niestandardowych awatarów z setkami opcji personalizacji. Stwórz unikalną postać, która będzie reprezentować Cię w grze i na forum społeczności.",
+      "price": "15.99 zł",
+      "image": "https://images.unsplash.com/photo-1551103782-8ab07afd4c3d?w=400&h=200&fit=crop",
+      "enddate": "2025-08-20"
+    },
+    {
+      "title": "Pro Builder Tools",
+      "description": "Profesjonalne narzędzia do budowania dla zaawansowanych twórców. Zawiera ekskluzywne bloki, narzędzia edycyjne i szablony do tworzenia niesamowitych konstrukcji.",
+      "price": "39.99 zł",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=400&h=200&fit=crop",
+      "enddate": "2025-11-30"
+    },
+    {
+      "title": "Community Badge Collection",
+      "description": "Kolekcja ekskluzywnych odznak społeczności pokazujących Twoje osiągnięcia i zaangażowanie. Każda odznaka ma unikalną historię i znaczenie w naszej społeczności.",
+      "price": "9.99 zł",
+      "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=400&h=200&fit=crop",
+      "enddate": "2025-07-10"
+    },
+    {
+      "title": "Exclusive Server Access",
+      "description": "Dostęp do ekskluzywnych serwerów tylko dla członków premium. Ciesz się grą bez lagów, z wyjątkową społecznością i regularnymi eventami specjalnymi.",
+      "price": "24.99 zł/miesiąc",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=200&fit=crop",
+      "enddate": "2025-12-31"
+    },
+    {
+      "title": "Epic Cosmetics Bundle",
+      "description": "Zestaw najlepszych kosmetyków w grze! Zawiera skiny, emotki, efekty cząsteczkowe i inne wizualne ulepszenia, które wyróżnią Cię spośród innych graczy.",
+      "price": "34.99 zł",
+      "image": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=400&h=200&fit=crop",
+      "enddate": "2025-10-15"
+    }
+  ]
