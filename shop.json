@@ -1,1 +1,24 @@
-    
+{
+    "uzytkownik": {
+      "imie": "Janusz",
+      "wiek": 42,
+      "premium": true,
+      "zwierzaki": ["pies", "kot", "papuga"],
+      "adres": {
+        "ulica": "Sezamkowa 123",
+        "miasto": "Warszawa",
+        "kod_pocztowy": "00-001"
+      }
+    },
+    "logowania": [
+      {
+        "data": "2025-06-01",
+        "ip": "192.168.1.1"
+      },
+      {
+        "data": "2025-06-08",
+        "ip": "10.0.0.5"
+      }
+    ]
+  }
+  
