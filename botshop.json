@@ -1,8 +1,8 @@
 [
     {
-      "name": "Cebubula",
-      "price": 1.00,
-      "role": 1368318515940954172,  
+      "name": "Znak Stop",
+      "price": 7.00,
+      "role": 1383857968088613088,  
       "time": "10s"                 
     },
     {
@@ -10,17 +10,5 @@
       "price": 10.00,
       "role": 987654321098765432,  
       "time": "30d"               
-    },
-    {
-      "name": "Eliksir Szybkości",
-      "price": 4.00,
-      "role": 112233445566778899,
-      "time": "3h"
-    },
-    {
-      "name": "Tarcza Ognia",
-      "price": 5.00,
-      "role": 223344556677889900,
-      "time": "30m"
     }
   ]
